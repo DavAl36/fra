@@ -1,0 +1,12 @@
+version: "3.7"
+services:
+  ait:
+    container_name: ait
+    image: ait:latest
+    restart: always
+    build:
+      context: ./ait
+      dockerfile: Dockerfile
+    volumes:
+      - /home/dav/Desktop/Projects/Francy/ait/:/workspace/code
+      - /home/dav/Pictures/:/workspace/data
