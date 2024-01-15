@@ -1,5 +1,9 @@
 # fra
 
+<p align="center">
+  <img src="https://github.com/DavAl36/fra/assets/114728905/3f155c51-ed03-4edc-8e90-205cc594f335"width="500" />
+</p>
+
 The goal of Francy is to convert photos of book pages into text files as Word, Txt and Pdf. \
 The following [video](https://www.youtube.com/watch?v=hNaIh87OFi4) explains the project. \
 The software is tested on **Nvidia Jetson Nano** and **Raspberry Pi 3 Model B**.
